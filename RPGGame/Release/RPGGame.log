@@ -1,0 +1,87 @@
+﻿Build started 11/10/2016 2:59:11 PM.
+     1>Project "C:\Users\User\Documents\Visual Studio 2012\Projects\RPGGame\RPGGame\RPGGame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt DragonClass.cpp KnightClass.cpp MageClass.cpp Source.cpp ThiefClass.cpp
+         DragonClass.cpp
+     1>DragonClass.cpp(113): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(139): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(172): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(200): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(336): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(362): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(395): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(423): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(559): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(585): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(618): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(646): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(782): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(808): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(841): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>DragonClass.cpp(869): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         KnightClass.cpp
+     1>KnightClass.cpp(112): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(138): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(171): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(199): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(335): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(361): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(394): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(422): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(558): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(584): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(617): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(645): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(781): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(807): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(840): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>KnightClass.cpp(868): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         MageClass.cpp
+     1>MageClass.cpp(113): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(139): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(172): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(200): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(334): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(360): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(393): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(421): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(555): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(581): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(614): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(642): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(776): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(802): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(835): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MageClass.cpp(863): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Source.cpp
+         ThiefClass.cpp
+     1>ThiefClass.cpp(112): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(138): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(171): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(199): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(335): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(361): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(394): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(422): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(558): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(584): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(617): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(645): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(781): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(807): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(840): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ThiefClass.cpp(868): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\Visual Studio 2012\Projects\RPGGame\Release\RPGGame.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Documents\Visual Studio 2012\Projects\RPGGame\Release\RPGGame.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\Visual Studio 2012\Projects\RPGGame\Release\RPGGame.lib" /MACHINE:X86 /SAFESEH Release\DragonClass.obj
+         Release\KnightClass.obj
+         Release\MageClass.obj
+         Release\Source.obj
+         Release\ThiefClass.obj
+         Generating code
+         Finished generating code
+         RPGGame.vcxproj -> C:\Users\User\Documents\Visual Studio 2012\Projects\RPGGame\Release\RPGGame.exe
+     1>Done Building Project "C:\Users\User\Documents\Visual Studio 2012\Projects\RPGGame\RPGGame\RPGGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.14
